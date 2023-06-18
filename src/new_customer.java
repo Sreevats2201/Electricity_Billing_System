@@ -10,7 +10,7 @@ public class new_customer extends JFrame implements ActionListener{
     new_customer(){
         super("Add Customer");
         setLocation(350,200);
-        setSize(650,600);
+        setSize(650,800);
 
         JPanel p = new JPanel();
         p.setLayout(new GridLayout(9,2,10,10));
